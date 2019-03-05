@@ -1,6 +1,6 @@
 # python_qq_spider
 
-![](python_qq_spider/p/图片1.png)
+![](p/图片1.png)
 
 ![image](http://github.com/horseli/python_qq_spider/raw/master/p/图片2.png)
 
